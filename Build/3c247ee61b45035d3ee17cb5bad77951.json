@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "multiplayer-fps",
+"productVersion": "1.2.0",
+"dataUrl": "520ebad24a20a3850b90ae8be5470a50.unityweb",
+"wasmCodeUrl": "f51cf89640de27c684c0e2bb003e4336.unityweb",
+"wasmFrameworkUrl": "4df4b94db9bb5990943482fdb7329f41.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
